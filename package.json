@@ -1,0 +1,17 @@
+{
+    "devDependencies": {
+        "typescript": "^5.5.4"
+    },
+    "name": "runner",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "start": "echo \"Please install the extension Live Server and open it there.\"",
+        "run": "echo \"Please install the extension Live Server and open it there.\""
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": "",
+    "type": "module"
+}
